@@ -7,6 +7,10 @@ h1 {
     color: #FFFFFF;
 }
 
+p {
+    color: #FFFFFF;
+}
+
 .container {
     max-width: 960px;
     margin: 0 auto;
